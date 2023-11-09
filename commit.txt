@@ -1,0 +1,3 @@
+DÙNG TIẾNG ANH
+có file mới: create <file>.<đuôi>
+chỉnh sửa file cũ: update <file>.<đuôi>
